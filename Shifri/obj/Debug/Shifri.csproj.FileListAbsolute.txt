@@ -1,0 +1,16 @@
+C:\Users\adfgh\Desktop\C#\C#\Shifri\Shifri\bin\Debug\Shifri.exe.config
+C:\Users\adfgh\Desktop\C#\C#\Shifri\Shifri\bin\Debug\Shifri.exe
+C:\Users\adfgh\Desktop\C#\C#\Shifri\Shifri\bin\Debug\Shifri.pdb
+C:\Users\adfgh\Desktop\C#\C#\Shifri\Shifri\obj\Debug\Shifri.csprojResolveAssemblyReference.cache
+C:\Users\adfgh\Desktop\C#\C#\Shifri\Shifri\obj\Debug\Shifri.Form1.resources
+C:\Users\adfgh\Desktop\C#\C#\Shifri\Shifri\obj\Debug\Shifri.csproj.GenerateResource.Cache
+C:\Users\adfgh\Desktop\C#\C#\Shifri\Shifri\obj\Debug\Shifri.exe
+C:\Users\adfgh\Desktop\C#\C#\Shifri\Shifri\obj\Debug\Shifri.pdb
+C:\Users\sshis\Downloads\C#\Shifri\Shifri\bin\Debug\Shifri.exe.config
+C:\Users\sshis\Downloads\C#\Shifri\Shifri\bin\Debug\Shifri.exe
+C:\Users\sshis\Downloads\C#\Shifri\Shifri\bin\Debug\Shifri.pdb
+C:\Users\sshis\Downloads\C#\Shifri\Shifri\obj\Debug\Shifri.csprojResolveAssemblyReference.cache
+C:\Users\sshis\Downloads\C#\Shifri\Shifri\obj\Debug\Shifri.Form1.resources
+C:\Users\sshis\Downloads\C#\Shifri\Shifri\obj\Debug\Shifri.csproj.GenerateResource.Cache
+C:\Users\sshis\Downloads\C#\Shifri\Shifri\obj\Debug\Shifri.exe
+C:\Users\sshis\Downloads\C#\Shifri\Shifri\obj\Debug\Shifri.pdb
